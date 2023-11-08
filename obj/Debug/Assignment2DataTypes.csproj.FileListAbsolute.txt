@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Assignment2DataTypes\Assignment2DataTypes\bin\Debug\Assignment2DataTypes.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Assignment2DataTypes\Assignment2DataTypes\bin\Debug\Assignment2DataTypes.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Assignment2DataTypes\Assignment2DataTypes\bin\Debug\Assignment2DataTypes.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Assignment2DataTypes\Assignment2DataTypes\obj\Debug\Assignment2DataTypes.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Assignment2DataTypes\Assignment2DataTypes\obj\Debug\Assignment2DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Assignment2DataTypes\Assignment2DataTypes\obj\Debug\Assignment2DataTypes.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Assignment2DataTypes\Assignment2DataTypes\obj\Debug\Assignment2DataTypes.pdb
